@@ -64,6 +64,7 @@
 		    
 		  	});
 		  	// STOCK-Details
+			// test
 		  	//https://www.bqprime.com/next/feapi/stock/779228/stock-dna
 		  	$.ajax({
 			    url: 'https://www.bqprime.com/next/feapi/stock/'+value+'/stock-dna',
