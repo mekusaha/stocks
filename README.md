@@ -1,1 +1,3 @@
-# stocks
+# maven-project
+
+Simple Maven Project
